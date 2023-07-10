@@ -1,5 +1,5 @@
 # IssueTracker
-A webserver for an issue tracking application with JWT authentication
+A webserver for an issue tracking application with JWT authentication. Created using NodeJs, Express, MySQL and Sequelize ORM.
 # Running the server
 Run command ```npm start``` in the server directory to start the server.  
   
